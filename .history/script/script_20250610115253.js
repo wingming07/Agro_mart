@@ -1,0 +1,3 @@
+function scrollToSection(id){
+    document
+}

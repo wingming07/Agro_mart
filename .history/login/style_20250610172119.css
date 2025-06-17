@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2? family=poppins:wght@400;600&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: linear-gradient(to right, #667eea,#764ba2);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-container{
+    color:white;
+    padding: 2rem 3rem;
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+    width: 100%;
+    max-width: 400px;
+}
+.login-form h2{
+    text-align: center;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+.input-group{
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+.inpupt-group input{
+    
+}
